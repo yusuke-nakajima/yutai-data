@@ -6,8 +6,9 @@
 
 | ファイル | 内容 | 更新方法 |
 |---|---|---|
-| `master.json` | 東証上場 内国株式の銘柄マスタ(コード・社名・市場区分) | `scripts/gen-master.js` で自動生成 |
+| `master.json` | 東証上場 内国株式の銘柄マスタ(コード・社名・市場区分・優待実施フラグ`y`) | `scripts/gen-master.js` で自動生成 |
 | `yutai.json` | 優待データ(優待内容・権利確定月・確定日) | **このファイルを手で編集する** |
+| `yutai-codes.json` | 優待実施銘柄の証券コード一覧。master.jsonの`y`フラグの元データ | **このファイルを手で編集する**(下記手順) |
 
 ## yutai.json の書式
 
@@ -23,10 +24,14 @@
 
 ## master.json の更新手順
 
-**自動化済み**: GitHub Actions(`.github/workflows/update-master.yml`)が週1回JPXから最新の銘柄一覧を取得し、差分があればcommitする。手動で更新したい場合はActionsタブから「Update master.json」をRun workflowするか、以下をローカルで実行:
+**自動化済み**: GitHub Actions(`.github/workflows/update-master.yml`)が週1回JPXから最新の銘柄一覧を取得し、差分があればcommitする。生成時に `yutai-codes.json` を読んで優待実施銘柄に `y:1` を付与する。手動で更新したい場合はActionsタブから「Update master.json」をRun workflowするか、以下をローカルで実行:
 
 1. [JPX 東証上場銘柄一覧](https://www.jpx.co.jp/markets/statistics-equities/misc/01.html) から `data_j.xls` をダウンロード
 2. `npm install xlsx --no-save && node scripts/gen-master.js data_j.xls master.json`
+
+## 優待の有無(yutai-codes.json)の更新手順
+
+優待の新設・廃止があったら `codes` 配列にコードを追加/削除して push する。ただし**配信される master.json に反映されるのは再生成時**なので、すぐ反映したい場合は Actions タブから「Update master.json」を手動実行する(放置しても週次実行で反映される)。
 
 ## 公開手順(初回のみ)
 
