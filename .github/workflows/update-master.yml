@@ -1,0 +1,55 @@
+# JPXの上場銘柄一覧からmaster.jsonを自動更新する。
+# JPXは月末データを翌月初に公開するため週1回チェックし、差分がある時だけcommitする。
+name: Update master.json
+
+on:
+  schedule:
+    - cron: '0 21 * * 1' # 毎週火曜 6:00 JST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Download JPX data_j.xls
+        run: |
+          curl --fail -sS -A "Mozilla/5.0" \
+            -o data_j.xls \
+            "https://www.jpx.co.jp/markets/statistics-equities/misc/tvdivq0000001vg2-att/data_j.xls"
+
+      - name: Generate master.json
+        run: |
+          npm install xlsx --no-save
+          node scripts/gen-master.js data_j.xls master.json
+
+      - name: Sanity check
+        run: |
+          node -e "
+            const d = require('./master.json');
+            if (!Array.isArray(d.stocks) || d.stocks.length < 3000) {
+              console.error('銘柄数が異常に少ない:', d.stocks && d.stocks.length);
+              process.exit(1);
+            }
+            console.log('OK:', d.stocks.length, '銘柄, version', d.version);
+          "
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet master.json; then
+            echo "差分なし。何もしない"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add master.json
+          git commit -m "master.json自動更新: version $(node -pe "require('./master.json').version")"
+          git push

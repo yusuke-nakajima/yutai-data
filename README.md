@@ -23,8 +23,10 @@
 
 ## master.json の更新手順
 
+**自動化済み**: GitHub Actions(`.github/workflows/update-master.yml`)が週1回JPXから最新の銘柄一覧を取得し、差分があればcommitする。手動で更新したい場合はActionsタブから「Update master.json」をRun workflowするか、以下をローカルで実行:
+
 1. [JPX 東証上場銘柄一覧](https://www.jpx.co.jp/markets/statistics-equities/misc/01.html) から `data_j.xls` をダウンロード
-2. `npm install xlsx && node scripts/gen-master.js data_j.xls master.json`
+2. `npm install xlsx --no-save && node scripts/gen-master.js data_j.xls master.json`
 
 ## 公開手順(初回のみ)
 
