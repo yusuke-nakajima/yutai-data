@@ -9,6 +9,7 @@
 | `master.json` | 東証上場 内国株式の銘柄マスタ(コード・社名・市場区分・優待実施フラグ`y`) | `scripts/gen-master.js` で自動生成 |
 | `yutai.json` | 優待データ(優待内容・権利確定月・確定日) | **このファイルを手で編集する** |
 | `yutai-codes.json` | 優待実施銘柄の証券コード一覧。master.jsonの`y`フラグの元データ | **このファイルを手で編集する**(下記手順) |
+| `tdnet-seen.json` | TDnet開示検知の処理済みID一覧 | 自動更新(触らない) |
 
 ## yutai.json の書式
 
@@ -28,6 +29,10 @@
 
 1. [JPX 東証上場銘柄一覧](https://www.jpx.co.jp/markets/statistics-equities/misc/01.html) から `data_j.xls` をダウンロード
 2. `npm install xlsx --no-save && node scripts/gen-master.js data_j.xls master.json`
+
+## 優待開示の自動検知(TDnet)
+
+GitHub Actions(`.github/workflows/check-tdnet.yml`)が平日18:30(JST)にTDnetの開示一覧をチェックし、表題に「株主優待」を含む開示を見つけると **Issue を自動起票**する(ラベル: `yutai-update`)。Issueの通知メールが届いたら、記載のチェックリストに沿って yutai.json / yutai-codes.json を更新する。手動チェックは Actions タブから「Check TDnet yutai disclosures」を日付指定で実行できる。
 
 ## 優待の有無(yutai-codes.json)の更新手順
 

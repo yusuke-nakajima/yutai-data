@@ -1,0 +1,43 @@
+# TDnetの「株主優待」開示を検知してIssueを起票する。
+# 平日18:30 JSTに前日+当日分をチェック(定時後の開示は翌日の実行で拾う)。
+name: Check TDnet yutai disclosures
+
+on:
+  schedule:
+    - cron: '30 9 * * 1-5' # 平日18:30 JST
+  workflow_dispatch:
+    inputs:
+      date:
+        description: '対象日 YYYYMMDD (省略時は前日+当日JST)'
+        required: false
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+
+      - name: Detect disclosures and create issues
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: node scripts/check-tdnet.js ${{ inputs.date }}
+
+      - name: Commit seen list
+        run: |
+          if git diff --quiet tdnet-seen.json; then
+            echo "処理済みリストに変更なし"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tdnet-seen.json
+          git commit -m "tdnet-seen: 処理済み開示を記録"
+          git push
