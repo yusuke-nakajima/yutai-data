@@ -1,10 +1,10 @@
 # TDnetの「株主優待」開示を検知してIssueを起票する。
-# 平日18:30 JSTに前日+当日分をチェック(定時後の開示は翌日の実行で拾う)。
+# 平日23:30 JSTに前日+当日分をチェック(夕方以降の開示も当日中に拾う。Actionsの遅延を考慮し0時前に余裕を持たせる)。
 name: Check TDnet yutai disclosures
 
 on:
   schedule:
-    - cron: '30 9 * * 1-5' # 平日18:30 JST
+    - cron: '30 14 * * 1-5' # 平日23:30 JST
   workflow_dispatch:
     inputs:
       date:
