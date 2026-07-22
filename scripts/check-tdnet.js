@@ -60,11 +60,43 @@ function loadJson(p, fallback) {
   }
 }
 
-function buildIssue(hit, yutaiItems, yutaiCodes) {
+// 開示PDFをダウンロードしてテキスト抽出する。
+// クラウドルーチン実行環境からTDnetへのegressがブロックされることがあるため、
+// ネットワーク制限のないGitHub Actions側で事前にテキスト化してIssue本文に埋め込む。
+const MAX_PDF_TEXT = 20000; // GitHub Issue本文の上限(65536文字)に収まるよう抽出テキストを制限
+async function fetchPdfText(url) {
+  try {
+    const res = await fetch(url, { headers: { 'User-Agent': 'yutai-data-bot' } });
+    if (!res.ok) return { ok: false, text: '' };
+    const buf = Buffer.from(await res.arrayBuffer());
+    const pdfParse = require('pdf-parse');
+    const data = await pdfParse(buf);
+    const text = data.text.trim();
+    return { ok: text.length > 0, text: text.slice(0, MAX_PDF_TEXT) };
+  } catch (e) {
+    return { ok: false, text: '', error: String(e.message || e) };
+  }
+}
+
+function buildIssue(hit, yutaiItems, yutaiCodes, pdfResult) {
   const item = yutaiItems.find((i) => i.code === hit.code);
   const inCodes = yutaiCodes.includes(hit.code);
   const dateFmt = `${hit.date.slice(0, 4)}-${hit.date.slice(4, 6)}-${hit.date.slice(6, 8)}`;
   const title = `[優待開示] ${hit.code} ${hit.name}: ${hit.title}`;
+  const pdfSection = pdfResult.ok
+    ? [
+        `<details><summary>開示PDF全文(自動抽出テキスト。内容が読み取れればPDFへのアクセスは不要)</summary>`,
+        ``,
+        '```',
+        pdfResult.text,
+        '```',
+        ``,
+        `</details>`,
+      ].join('\n')
+    : [
+        `⚠️ 開示PDFの自動テキスト抽出に失敗しました${pdfResult.error ? `(${pdfResult.error})` : ''}。`,
+        `[PDF](${hit.pdf}) を直接確認してください。`,
+      ].join('\n');
   const body = [
     `TDnetで株主優待に関する開示を検知しました。`,
     ``,
@@ -78,11 +110,13 @@ function buildIssue(hit, yutaiItems, yutaiCodes) {
     `- yutai.json(優待詳細): ${item ? `✅ 収録あり(${item.months.map((m) => m + '月').join('・')} / ${item.benefit})` : '❌ 未収録'}`,
     ``,
     `### 対応チェックリスト`,
-    `- [ ] PDFで内容を確認(新設/変更/廃止/条件変更)`,
+    `- [ ] 開示PDF全文(下記)で内容を確認(新設/変更/廃止/条件変更)`,
     `- [ ] 廃止なら yutai-codes.json からコードを削除(詳細収録済みなら yutai.json からも削除)`,
     `- [ ] 新設なら yutai-codes.json にコードを追加`,
     `- [ ] 変更で詳細収録済みなら yutai.json の該当エントリを更新`,
     `- [ ] push後、有無を変えた場合は Actions「Update master.json」を手動実行(またはWed定期実行を待つ)`,
+    ``,
+    pdfSection,
   ].join('\n');
   return { title, body };
 }
@@ -105,7 +139,9 @@ async function main() {
   const yutaiCodes = loadJson(path.join(ROOT, 'yutai-codes.json'), { codes: [] }).codes;
 
   for (const hit of newHits) {
-    const issue = buildIssue(hit, yutaiItems, yutaiCodes);
+    const pdfResult = await fetchPdfText(hit.pdf);
+    console.log(`${hit.code} ${hit.name}: PDF抽出 ${pdfResult.ok ? `成功(${pdfResult.text.length}文字)` : '失敗'}`);
+    const issue = buildIssue(hit, yutaiItems, yutaiCodes, pdfResult);
     if (dryRun) {
       console.log('--- [dry-run] Issue ---');
       console.log(issue.title);

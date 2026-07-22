@@ -25,6 +25,9 @@ jobs:
         with:
           node-version: 24
 
+      - name: Install PDF text extractor
+        run: npm install pdf-parse@1.1.1 --no-save
+
       - name: Detect disclosures and create issues
         env:
           GH_TOKEN: ${{ github.token }}
