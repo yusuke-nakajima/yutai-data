@@ -1,0 +1,3006 @@
+{
+  "source": "https://minkabu.jp/yutai/popular_ranking/total",
+  "fetched": "2026-07-25",
+  "ranking": [
+    {
+      "rank": 1,
+      "code": "3665",
+      "name": "エニグモ",
+      "collected": false
+    },
+    {
+      "rank": 2,
+      "code": "9432",
+      "name": "NTT",
+      "collected": true
+    },
+    {
+      "rank": 3,
+      "code": "6186",
+      "name": "一蔵",
+      "collected": false
+    },
+    {
+      "rank": 4,
+      "code": "3382",
+      "name": "セブン＆アイ・ホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 5,
+      "code": "7196",
+      "name": "Casa",
+      "collected": false
+    },
+    {
+      "rank": 6,
+      "code": "9973",
+      "name": "KOZOホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 7,
+      "code": "8783",
+      "name": "abc",
+      "collected": false
+    },
+    {
+      "rank": 8,
+      "code": "3205",
+      "name": "ダイドーリミテッド",
+      "collected": false
+    },
+    {
+      "rank": 9,
+      "code": "8267",
+      "name": "イオン",
+      "collected": true
+    },
+    {
+      "rank": 10,
+      "code": "2602",
+      "name": "日清オイリオグループ",
+      "collected": false
+    },
+    {
+      "rank": 11,
+      "code": "7203",
+      "name": "トヨタ自動車",
+      "collected": true
+    },
+    {
+      "rank": 12,
+      "code": "2217",
+      "name": "モロゾフ",
+      "collected": false
+    },
+    {
+      "rank": 13,
+      "code": "7277",
+      "name": "TBK",
+      "collected": false
+    },
+    {
+      "rank": 14,
+      "code": "3387",
+      "name": "クリエイト・レストランツ・ホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 15,
+      "code": "6181",
+      "name": "タメニー",
+      "collected": false
+    },
+    {
+      "rank": 16,
+      "code": "7272",
+      "name": "ヤマハ発動機",
+      "collected": false
+    },
+    {
+      "rank": 17,
+      "code": "1605",
+      "name": "INPEX",
+      "collected": true
+    },
+    {
+      "rank": 18,
+      "code": "3159",
+      "name": "丸善CHIホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 19,
+      "code": "9434",
+      "name": "ソフトバンク",
+      "collected": true
+    },
+    {
+      "rank": 20,
+      "code": "2928",
+      "name": "RIZAPグループ",
+      "collected": false
+    },
+    {
+      "rank": 21,
+      "code": "8316",
+      "name": "三井住友フィナンシャルグループ",
+      "collected": false
+    },
+    {
+      "rank": 22,
+      "code": "4755",
+      "name": "楽天グループ",
+      "collected": true
+    },
+    {
+      "rank": 23,
+      "code": "7085",
+      "name": "カーブスホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 24,
+      "code": "3418",
+      "name": "バルニバービ",
+      "collected": false
+    },
+    {
+      "rank": 25,
+      "code": "2264",
+      "name": "森永乳業",
+      "collected": true
+    },
+    {
+      "rank": 26,
+      "code": "9602",
+      "name": "東宝",
+      "collected": true
+    },
+    {
+      "rank": 27,
+      "code": "1928",
+      "name": "積水ハウス",
+      "collected": false
+    },
+    {
+      "rank": 28,
+      "code": "3880",
+      "name": "大王製紙",
+      "collected": false
+    },
+    {
+      "rank": 29,
+      "code": "2871",
+      "name": "ニチレイ",
+      "collected": true
+    },
+    {
+      "rank": 30,
+      "code": "5161",
+      "name": "西川ゴム工業",
+      "collected": false
+    },
+    {
+      "rank": 31,
+      "code": "7602",
+      "name": "レダックス",
+      "collected": false
+    },
+    {
+      "rank": 32,
+      "code": "2198",
+      "name": "アイ・ケイ・ケイホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 33,
+      "code": "2695",
+      "name": "くら寿司",
+      "collected": true
+    },
+    {
+      "rank": 34,
+      "code": "545A",
+      "name": "トランヴィア",
+      "collected": false
+    },
+    {
+      "rank": 35,
+      "code": "7856",
+      "name": "萩原工業",
+      "collected": false
+    },
+    {
+      "rank": 36,
+      "code": "2930",
+      "name": "北の達人コーポレーション",
+      "collected": false
+    },
+    {
+      "rank": 37,
+      "code": "3930",
+      "name": "はてな",
+      "collected": false
+    },
+    {
+      "rank": 38,
+      "code": "3003",
+      "name": "ヒューリック",
+      "collected": true
+    },
+    {
+      "rank": 39,
+      "code": "9433",
+      "name": "KDDI",
+      "collected": true
+    },
+    {
+      "rank": 40,
+      "code": "3607",
+      "name": "クラウディアホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 41,
+      "code": "3002",
+      "name": "グンゼ",
+      "collected": false
+    },
+    {
+      "rank": 42,
+      "code": "2503",
+      "name": "キリンホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 43,
+      "code": "2802",
+      "name": "味の素",
+      "collected": true
+    },
+    {
+      "rank": 44,
+      "code": "7278",
+      "name": "エクセディ",
+      "collected": false
+    },
+    {
+      "rank": 45,
+      "code": "9160",
+      "name": "オンザページ",
+      "collected": false
+    },
+    {
+      "rank": 46,
+      "code": "8904",
+      "name": "AVANTIA",
+      "collected": false
+    },
+    {
+      "rank": 47,
+      "code": "4668",
+      "name": "明光ネットワークジャパン",
+      "collected": true
+    },
+    {
+      "rank": 48,
+      "code": "2501",
+      "name": "サッポロビール",
+      "collected": false
+    },
+    {
+      "rank": 49,
+      "code": "7267",
+      "name": "ホンダ",
+      "collected": false
+    },
+    {
+      "rank": 50,
+      "code": "3543",
+      "name": "コメダホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 51,
+      "code": "2269",
+      "name": "明治ホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 52,
+      "code": "8016",
+      "name": "オンワードホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 53,
+      "code": "7128",
+      "name": "ユニソルホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 54,
+      "code": "1333",
+      "name": "Umios",
+      "collected": false
+    },
+    {
+      "rank": 55,
+      "code": "4596",
+      "name": "窪田製薬ホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 56,
+      "code": "7630",
+      "name": "壱番屋",
+      "collected": true
+    },
+    {
+      "rank": 57,
+      "code": "2404",
+      "name": "鉄人化ホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 58,
+      "code": "6758",
+      "name": "ソニーグループ",
+      "collected": false
+    },
+    {
+      "rank": 59,
+      "code": "3539",
+      "name": "JMホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 60,
+      "code": "8136",
+      "name": "サンリオ",
+      "collected": true
+    },
+    {
+      "rank": 61,
+      "code": "1925",
+      "name": "大和ハウス工業",
+      "collected": false
+    },
+    {
+      "rank": 62,
+      "code": "3197",
+      "name": "すかいらーくホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 63,
+      "code": "9020",
+      "name": "JR東日本",
+      "collected": true
+    },
+    {
+      "rank": 64,
+      "code": "4433",
+      "name": "ヒト・コミュニケーションズ・ホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 65,
+      "code": "4936",
+      "name": "アクシージア",
+      "collected": false
+    },
+    {
+      "rank": 66,
+      "code": "2801",
+      "name": "キッコーマン",
+      "collected": true
+    },
+    {
+      "rank": 67,
+      "code": "2340",
+      "name": "極楽湯ホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 68,
+      "code": "7313",
+      "name": "テイ・エス・テック",
+      "collected": false
+    },
+    {
+      "rank": 69,
+      "code": "3861",
+      "name": "王子ホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 70,
+      "code": "8303",
+      "name": "SBI新生銀行",
+      "collected": false
+    },
+    {
+      "rank": 71,
+      "code": "7938",
+      "name": "リーガルコーポレーション",
+      "collected": false
+    },
+    {
+      "rank": 72,
+      "code": "7593",
+      "name": "VTホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 73,
+      "code": "2702",
+      "name": "日本マクドナルドホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 74,
+      "code": "8801",
+      "name": "三井不動産",
+      "collected": true
+    },
+    {
+      "rank": 75,
+      "code": "4661",
+      "name": "オリエンタルランド",
+      "collected": true
+    },
+    {
+      "rank": 76,
+      "code": "3071",
+      "name": "ストリーム",
+      "collected": false
+    },
+    {
+      "rank": 77,
+      "code": "2220",
+      "name": "亀田製菓",
+      "collected": false
+    },
+    {
+      "rank": 78,
+      "code": "3726",
+      "name": "フォーシーズHD",
+      "collected": false
+    },
+    {
+      "rank": 79,
+      "code": "2353",
+      "name": "日本駐車場開発",
+      "collected": false
+    },
+    {
+      "rank": 80,
+      "code": "3421",
+      "name": "稲葉製作所",
+      "collected": false
+    },
+    {
+      "rank": 81,
+      "code": "167A",
+      "name": "リョーサン菱洋ホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 82,
+      "code": "3137",
+      "name": "ファンデリー",
+      "collected": false
+    },
+    {
+      "rank": 83,
+      "code": "2811",
+      "name": "カゴメ",
+      "collected": true
+    },
+    {
+      "rank": 84,
+      "code": "7599",
+      "name": "IDOM",
+      "collected": false
+    },
+    {
+      "rank": 85,
+      "code": "9326",
+      "name": "関通ホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 86,
+      "code": "1379",
+      "name": "ホクト",
+      "collected": false
+    },
+    {
+      "rank": 87,
+      "code": "3826",
+      "name": "システムインテグレータ",
+      "collected": false
+    },
+    {
+      "rank": 88,
+      "code": "2201",
+      "name": "森永製菓",
+      "collected": true
+    },
+    {
+      "rank": 89,
+      "code": "3494",
+      "name": "マリオン",
+      "collected": false
+    },
+    {
+      "rank": 90,
+      "code": "3370",
+      "name": "フジタコーポレーション",
+      "collected": false
+    },
+    {
+      "rank": 91,
+      "code": "7182",
+      "name": "ゆうちょ銀行",
+      "collected": true
+    },
+    {
+      "rank": 92,
+      "code": "5401",
+      "name": "日本製鉄",
+      "collected": true
+    },
+    {
+      "rank": 93,
+      "code": "5949",
+      "name": "ユニプレス",
+      "collected": false
+    },
+    {
+      "rank": 94,
+      "code": "6630",
+      "name": "ヤーマン",
+      "collected": true
+    },
+    {
+      "rank": 95,
+      "code": "3608",
+      "name": "TSIホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 96,
+      "code": "2379",
+      "name": "ディップ",
+      "collected": false
+    },
+    {
+      "rank": 97,
+      "code": "3863",
+      "name": "日本製紙",
+      "collected": false
+    },
+    {
+      "rank": 98,
+      "code": "6577",
+      "name": "ベストワンドットコム",
+      "collected": false
+    },
+    {
+      "rank": 99,
+      "code": "4540",
+      "name": "ツムラ",
+      "collected": false
+    },
+    {
+      "rank": 100,
+      "code": "1332",
+      "name": "ニッスイ",
+      "collected": true
+    },
+    {
+      "rank": 101,
+      "code": "2897",
+      "name": "日清食品ホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 102,
+      "code": "8473",
+      "name": "SBIホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 103,
+      "code": "8750",
+      "name": "第一ライフグループ",
+      "collected": false
+    },
+    {
+      "rank": 104,
+      "code": "5411",
+      "name": "JFEホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 105,
+      "code": "3053",
+      "name": "ペッパーフードサービス",
+      "collected": false
+    },
+    {
+      "rank": 106,
+      "code": "3087",
+      "name": "ドトール・日レスホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 107,
+      "code": "9989",
+      "name": "サンドラッグ",
+      "collected": true
+    },
+    {
+      "rank": 108,
+      "code": "1518",
+      "name": "三井松島ホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 109,
+      "code": "2927",
+      "name": "AFC-HDアムスライフサイエンス",
+      "collected": false
+    },
+    {
+      "rank": 110,
+      "code": "3391",
+      "name": "ツルハホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 111,
+      "code": "4912",
+      "name": "ライオン",
+      "collected": true
+    },
+    {
+      "rank": 112,
+      "code": "3395",
+      "name": "サンマルクホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 113,
+      "code": "4927",
+      "name": "ポーラ・オルビスホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 114,
+      "code": "3815",
+      "name": "メディア工房",
+      "collected": false
+    },
+    {
+      "rank": 115,
+      "code": "9022",
+      "name": "JR東海",
+      "collected": true
+    },
+    {
+      "rank": 116,
+      "code": "3038",
+      "name": "神戸物産",
+      "collected": true
+    },
+    {
+      "rank": 117,
+      "code": "7769",
+      "name": "リズム",
+      "collected": false
+    },
+    {
+      "rank": 118,
+      "code": "9418",
+      "name": "U-NEXT HOLDINGS",
+      "collected": true
+    },
+    {
+      "rank": 119,
+      "code": "3474",
+      "name": "G-FACTORY",
+      "collected": false
+    },
+    {
+      "rank": 120,
+      "code": "2229",
+      "name": "カルビー",
+      "collected": true
+    },
+    {
+      "rank": 121,
+      "code": "2752",
+      "name": "フジオフードグループ本社",
+      "collected": false
+    },
+    {
+      "rank": 122,
+      "code": "3048",
+      "name": "ビックカメラ",
+      "collected": true
+    },
+    {
+      "rank": 123,
+      "code": "9788",
+      "name": "ナック",
+      "collected": false
+    },
+    {
+      "rank": 124,
+      "code": "7928",
+      "name": "旭化学工業",
+      "collected": false
+    },
+    {
+      "rank": 125,
+      "code": "4447",
+      "name": "ピー・ビーシステムズ",
+      "collected": false
+    },
+    {
+      "rank": 126,
+      "code": "9101",
+      "name": "日本郵船",
+      "collected": true
+    },
+    {
+      "rank": 127,
+      "code": "3046",
+      "name": "ジンズホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 128,
+      "code": "3193",
+      "name": "エターナルホスピタリティグループ",
+      "collected": true
+    },
+    {
+      "rank": 129,
+      "code": "9887",
+      "name": "松屋フーズホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 130,
+      "code": "8202",
+      "name": "ラオックスホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 131,
+      "code": "2986",
+      "name": "LAホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 132,
+      "code": "9021",
+      "name": "JR西日本",
+      "collected": true
+    },
+    {
+      "rank": 133,
+      "code": "7453",
+      "name": "良品計画",
+      "collected": true
+    },
+    {
+      "rank": 134,
+      "code": "8803",
+      "name": "平和不動産",
+      "collected": false
+    },
+    {
+      "rank": 135,
+      "code": "9760",
+      "name": "進学会ホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 136,
+      "code": "7607",
+      "name": "進和",
+      "collected": false
+    },
+    {
+      "rank": 137,
+      "code": "9831",
+      "name": "ヤマダホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 138,
+      "code": "2726",
+      "name": "パルグループホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 139,
+      "code": "8185",
+      "name": "チヨダ",
+      "collected": false
+    },
+    {
+      "rank": 140,
+      "code": "7126",
+      "name": "グローバルスタイル",
+      "collected": false
+    },
+    {
+      "rank": 141,
+      "code": "3612",
+      "name": "ワールド",
+      "collected": false
+    },
+    {
+      "rank": 142,
+      "code": "2168",
+      "name": "パソナグループ",
+      "collected": false
+    },
+    {
+      "rank": 143,
+      "code": "8043",
+      "name": "スターゼン",
+      "collected": false
+    },
+    {
+      "rank": 144,
+      "code": "3185",
+      "name": "夢展望",
+      "collected": false
+    },
+    {
+      "rank": 145,
+      "code": "7513",
+      "name": "コジマ",
+      "collected": true
+    },
+    {
+      "rank": 146,
+      "code": "3397",
+      "name": "トリドールホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 147,
+      "code": "7554",
+      "name": "幸楽苑",
+      "collected": true
+    },
+    {
+      "rank": 148,
+      "code": "2108",
+      "name": "日本甜菜製糖",
+      "collected": false
+    },
+    {
+      "rank": 149,
+      "code": "288A",
+      "name": "ラクサス・テクノロジーズ",
+      "collected": false
+    },
+    {
+      "rank": 150,
+      "code": "8166",
+      "name": "タカキュー",
+      "collected": false
+    },
+    {
+      "rank": 151,
+      "code": "8881",
+      "name": "日神グループホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 152,
+      "code": "9201",
+      "name": "日本航空",
+      "collected": true
+    },
+    {
+      "rank": 153,
+      "code": "7172",
+      "name": "ジャパンインベストメントアドバイザー",
+      "collected": false
+    },
+    {
+      "rank": 154,
+      "code": "6578",
+      "name": "コレックホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 155,
+      "code": "9104",
+      "name": "商船三井",
+      "collected": true
+    },
+    {
+      "rank": 156,
+      "code": "3289",
+      "name": "東急不動産ホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 157,
+      "code": "7918",
+      "name": "ヴィア・ホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 158,
+      "code": "4911",
+      "name": "資生堂",
+      "collected": true
+    },
+    {
+      "rank": 159,
+      "code": "7832",
+      "name": "バンダイナムコホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 160,
+      "code": "8508",
+      "name": "Jトラスト",
+      "collected": false
+    },
+    {
+      "rank": 161,
+      "code": "9470",
+      "name": "学研ホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 162,
+      "code": "3662",
+      "name": "エイチームホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 163,
+      "code": "9997",
+      "name": "ベルーナ",
+      "collected": true
+    },
+    {
+      "rank": 164,
+      "code": "7550",
+      "name": "ゼンショーホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 165,
+      "code": "3987",
+      "name": "エコモット",
+      "collected": true
+    },
+    {
+      "rank": 166,
+      "code": "8214",
+      "name": "AOKIホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 167,
+      "code": "7603",
+      "name": "ジーイエット",
+      "collected": false
+    },
+    {
+      "rank": 168,
+      "code": "8125",
+      "name": "ワキタ",
+      "collected": false
+    },
+    {
+      "rank": 169,
+      "code": "2593",
+      "name": "伊藤園",
+      "collected": true
+    },
+    {
+      "rank": 170,
+      "code": "3010",
+      "name": "ポラリス・ホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 171,
+      "code": "2164",
+      "name": "地域新聞社",
+      "collected": false
+    },
+    {
+      "rank": 172,
+      "code": "7337",
+      "name": "ひろぎんホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 173,
+      "code": "8098",
+      "name": "稲畑産業",
+      "collected": false
+    },
+    {
+      "rank": 174,
+      "code": "4290",
+      "name": "プレステージ・インターナショナル",
+      "collected": false
+    },
+    {
+      "rank": 175,
+      "code": "9861",
+      "name": "吉野家ホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 176,
+      "code": "9936",
+      "name": "王将フードサービス",
+      "collected": true
+    },
+    {
+      "rank": 177,
+      "code": "2157",
+      "name": "コシダカホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 178,
+      "code": "1419",
+      "name": "タマホーム",
+      "collected": false
+    },
+    {
+      "rank": 179,
+      "code": "9202",
+      "name": "ANAホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 180,
+      "code": "2215",
+      "name": "第一屋製パン",
+      "collected": false
+    },
+    {
+      "rank": 181,
+      "code": "9979",
+      "name": "大庄",
+      "collected": false
+    },
+    {
+      "rank": 182,
+      "code": "4394",
+      "name": "エクスモーション",
+      "collected": false
+    },
+    {
+      "rank": 183,
+      "code": "7201",
+      "name": "日産自動車",
+      "collected": false
+    },
+    {
+      "rank": 184,
+      "code": "9439",
+      "name": "エム・エイチ・グループ",
+      "collected": false
+    },
+    {
+      "rank": 185,
+      "code": "7683",
+      "name": "ダブルエー",
+      "collected": false
+    },
+    {
+      "rank": 186,
+      "code": "3694",
+      "name": "オプティム",
+      "collected": false
+    },
+    {
+      "rank": 187,
+      "code": "254A",
+      "name": "AIフュージョンキャピタルグループ",
+      "collected": false
+    },
+    {
+      "rank": 188,
+      "code": "2288",
+      "name": "丸大食品",
+      "collected": false
+    },
+    {
+      "rank": 189,
+      "code": "2938",
+      "name": "オカムラ食品工業",
+      "collected": false
+    },
+    {
+      "rank": 190,
+      "code": "1822",
+      "name": "大豊建設",
+      "collected": false
+    },
+    {
+      "rank": 191,
+      "code": "7649",
+      "name": "スギホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 192,
+      "code": "2730",
+      "name": "エディオン",
+      "collected": true
+    },
+    {
+      "rank": 193,
+      "code": "2114",
+      "name": "フジ日本",
+      "collected": false
+    },
+    {
+      "rank": 194,
+      "code": "4527",
+      "name": "ロート製薬",
+      "collected": true
+    },
+    {
+      "rank": 195,
+      "code": "8207",
+      "name": "テンアライド",
+      "collected": false
+    },
+    {
+      "rank": 196,
+      "code": "3070",
+      "name": "ジェリービーンズグループ",
+      "collected": false
+    },
+    {
+      "rank": 197,
+      "code": "8105",
+      "name": "ビットコインジャパン",
+      "collected": false
+    },
+    {
+      "rank": 198,
+      "code": "3261",
+      "name": "グランディーズ",
+      "collected": false
+    },
+    {
+      "rank": 199,
+      "code": "7616",
+      "name": "コロワイド",
+      "collected": true
+    },
+    {
+      "rank": 200,
+      "code": "9142",
+      "name": "JR九州",
+      "collected": true
+    },
+    {
+      "rank": 201,
+      "code": "4934",
+      "name": "プレミアアンチエイジング",
+      "collected": false
+    },
+    {
+      "rank": 202,
+      "code": "4933",
+      "name": "I-ne",
+      "collected": false
+    },
+    {
+      "rank": 203,
+      "code": "8566",
+      "name": "リコーリース",
+      "collected": true
+    },
+    {
+      "rank": 204,
+      "code": "7810",
+      "name": "クロスフォー",
+      "collected": true
+    },
+    {
+      "rank": 205,
+      "code": "3396",
+      "name": "フェリシモ",
+      "collected": false
+    },
+    {
+      "rank": 206,
+      "code": "3561",
+      "name": "力の源ホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 207,
+      "code": "7674",
+      "name": "NATTY holdings",
+      "collected": false
+    },
+    {
+      "rank": 208,
+      "code": "5976",
+      "name": "高周波熱錬",
+      "collected": false
+    },
+    {
+      "rank": 209,
+      "code": "3939",
+      "name": "カナミックネットワーク",
+      "collected": false
+    },
+    {
+      "rank": 210,
+      "code": "7186",
+      "name": "横浜フィナンシャルグループ",
+      "collected": false
+    },
+    {
+      "rank": 211,
+      "code": "2753",
+      "name": "あみやき亭",
+      "collected": true
+    },
+    {
+      "rank": 212,
+      "code": "2735",
+      "name": "ワッツ",
+      "collected": false
+    },
+    {
+      "rank": 213,
+      "code": "3139",
+      "name": "ラクト・ジャパン",
+      "collected": false
+    },
+    {
+      "rank": 214,
+      "code": "3372",
+      "name": "関門海",
+      "collected": false
+    },
+    {
+      "rank": 215,
+      "code": "3548",
+      "name": "バロックジャパンリミテッド",
+      "collected": false
+    },
+    {
+      "rank": 216,
+      "code": "7412",
+      "name": "アトム",
+      "collected": true
+    },
+    {
+      "rank": 217,
+      "code": "2722",
+      "name": "IKホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 218,
+      "code": "3199",
+      "name": "綿半ホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 219,
+      "code": "9757",
+      "name": "船井総研ホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 220,
+      "code": "3202",
+      "name": "ダイトウボウ",
+      "collected": false
+    },
+    {
+      "rank": 221,
+      "code": "9843",
+      "name": "ニトリホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 222,
+      "code": "2337",
+      "name": "いちご",
+      "collected": false
+    },
+    {
+      "rank": 223,
+      "code": "8219",
+      "name": "青山商事",
+      "collected": true
+    },
+    {
+      "rank": 224,
+      "code": "2186",
+      "name": "ソーバル",
+      "collected": false
+    },
+    {
+      "rank": 225,
+      "code": "8273",
+      "name": "イズミ",
+      "collected": false
+    },
+    {
+      "rank": 226,
+      "code": "4762",
+      "name": "エックスネット",
+      "collected": false
+    },
+    {
+      "rank": 227,
+      "code": "8142",
+      "name": "トーホー",
+      "collected": false
+    },
+    {
+      "rank": 228,
+      "code": "2908",
+      "name": "フジッコ",
+      "collected": false
+    },
+    {
+      "rank": 229,
+      "code": "3191",
+      "name": "ジョイフル本田",
+      "collected": false
+    },
+    {
+      "rank": 230,
+      "code": "7640",
+      "name": "トップカルチャー",
+      "collected": true
+    },
+    {
+      "rank": 231,
+      "code": "3134",
+      "name": "Hamee",
+      "collected": false
+    },
+    {
+      "rank": 232,
+      "code": "2809",
+      "name": "キユーピー",
+      "collected": true
+    },
+    {
+      "rank": 233,
+      "code": "5911",
+      "name": "横河ブリッジホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 234,
+      "code": "3140",
+      "name": "BRUNO",
+      "collected": false
+    },
+    {
+      "rank": 235,
+      "code": "7482",
+      "name": "シモジマ",
+      "collected": false
+    },
+    {
+      "rank": 236,
+      "code": "4611",
+      "name": "大日本塗料",
+      "collected": false
+    },
+    {
+      "rank": 237,
+      "code": "7388",
+      "name": "FPパートナー",
+      "collected": true
+    },
+    {
+      "rank": 238,
+      "code": "7532",
+      "name": "パン・パシフィック・インターナショナルホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 239,
+      "code": "8101",
+      "name": "GSIクレオス",
+      "collected": false
+    },
+    {
+      "rank": 240,
+      "code": "3222",
+      "name": "ユナイテッド・スーパーマーケット・ホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 241,
+      "code": "3050",
+      "name": "DCMホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 242,
+      "code": "6625",
+      "name": "JALCOホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 243,
+      "code": "7421",
+      "name": "カッパ・クリエイト",
+      "collected": true
+    },
+    {
+      "rank": 244,
+      "code": "8179",
+      "name": "ロイヤルホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 245,
+      "code": "4256",
+      "name": "サインド",
+      "collected": false
+    },
+    {
+      "rank": 246,
+      "code": "5216",
+      "name": "倉元製作所",
+      "collected": false
+    },
+    {
+      "rank": 247,
+      "code": "2590",
+      "name": "ダイドーグループホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 248,
+      "code": "5445",
+      "name": "東京鐵鋼",
+      "collected": false
+    },
+    {
+      "rank": 249,
+      "code": "9251",
+      "name": "AB&Company",
+      "collected": false
+    },
+    {
+      "rank": 250,
+      "code": "8424",
+      "name": "芙蓉総合リース",
+      "collected": false
+    },
+    {
+      "rank": 251,
+      "code": "2002",
+      "name": "日清製粉グループ本社",
+      "collected": false
+    },
+    {
+      "rank": 252,
+      "code": "1375",
+      "name": "ユキグニファクトリー",
+      "collected": false
+    },
+    {
+      "rank": 253,
+      "code": "3415",
+      "name": "TOKYO BASE",
+      "collected": false
+    },
+    {
+      "rank": 254,
+      "code": "7512",
+      "name": "イオン北海道",
+      "collected": true
+    },
+    {
+      "rank": 255,
+      "code": "4666",
+      "name": "パーク24",
+      "collected": true
+    },
+    {
+      "rank": 256,
+      "code": "4665",
+      "name": "ダスキン",
+      "collected": true
+    },
+    {
+      "rank": 257,
+      "code": "9218",
+      "name": "メンタルヘルステクノロジーズ",
+      "collected": false
+    },
+    {
+      "rank": 258,
+      "code": "3807",
+      "name": "フィスコ",
+      "collected": false
+    },
+    {
+      "rank": 259,
+      "code": "9416",
+      "name": "ビジョン",
+      "collected": false
+    },
+    {
+      "rank": 260,
+      "code": "7294",
+      "name": "ヨロズ",
+      "collected": false
+    },
+    {
+      "rank": 261,
+      "code": "3946",
+      "name": "トーモク",
+      "collected": true
+    },
+    {
+      "rank": 262,
+      "code": "3097",
+      "name": "物語コーポレーション",
+      "collected": true
+    },
+    {
+      "rank": 263,
+      "code": "7198",
+      "name": "SBIアルヒ",
+      "collected": false
+    },
+    {
+      "rank": 264,
+      "code": "9956",
+      "name": "バローホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 265,
+      "code": "8278",
+      "name": "フジ",
+      "collected": true
+    },
+    {
+      "rank": 266,
+      "code": "3479",
+      "name": "TKP",
+      "collected": false
+    },
+    {
+      "rank": 267,
+      "code": "9990",
+      "name": "サックスバー ホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 268,
+      "code": "2815",
+      "name": "アリアケジャパン",
+      "collected": false
+    },
+    {
+      "rank": 269,
+      "code": "4045",
+      "name": "東亞合成",
+      "collected": false
+    },
+    {
+      "rank": 270,
+      "code": "409A",
+      "name": "オリオンビール",
+      "collected": false
+    },
+    {
+      "rank": 271,
+      "code": "6194",
+      "name": "アトラエ",
+      "collected": false
+    },
+    {
+      "rank": 272,
+      "code": "9035",
+      "name": "第一交通産業",
+      "collected": false
+    },
+    {
+      "rank": 273,
+      "code": "3962",
+      "name": "チェンジホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 274,
+      "code": "9023",
+      "name": "東京地下鉄",
+      "collected": true
+    },
+    {
+      "rank": 275,
+      "code": "3641",
+      "name": "パピレス",
+      "collected": false
+    },
+    {
+      "rank": 276,
+      "code": "9278",
+      "name": "ブックオフグループホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 277,
+      "code": "7127",
+      "name": "一家ホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 278,
+      "code": "9616",
+      "name": "共立メンテナンス",
+      "collected": true
+    },
+    {
+      "rank": 279,
+      "code": "3469",
+      "name": "デュアルタップ",
+      "collected": false
+    },
+    {
+      "rank": 280,
+      "code": "3091",
+      "name": "ブロンコビリー",
+      "collected": false
+    },
+    {
+      "rank": 281,
+      "code": "7327",
+      "name": "第四北越フィナンシャルグループ",
+      "collected": false
+    },
+    {
+      "rank": 282,
+      "code": "8524",
+      "name": "北洋銀行",
+      "collected": false
+    },
+    {
+      "rank": 283,
+      "code": "2208",
+      "name": "ブルボン",
+      "collected": false
+    },
+    {
+      "rank": 284,
+      "code": "9900",
+      "name": "サガミホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 285,
+      "code": "3708",
+      "name": "特種東海製紙",
+      "collected": false
+    },
+    {
+      "rank": 286,
+      "code": "3796",
+      "name": "いい生活",
+      "collected": false
+    },
+    {
+      "rank": 287,
+      "code": "2268",
+      "name": "B-Rサーティワンアイスクリーム",
+      "collected": false
+    },
+    {
+      "rank": 288,
+      "code": "8616",
+      "name": "東海東京フィナンシャル・ホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 289,
+      "code": "4633",
+      "name": "サカタインクス",
+      "collected": false
+    },
+    {
+      "rank": 290,
+      "code": "2613",
+      "name": "J-オイルミルズ",
+      "collected": false
+    },
+    {
+      "rank": 291,
+      "code": "8613",
+      "name": "丸三証券",
+      "collected": false
+    },
+    {
+      "rank": 292,
+      "code": "8104",
+      "name": "クワザワホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 293,
+      "code": "2211",
+      "name": "不二家",
+      "collected": true
+    },
+    {
+      "rank": 294,
+      "code": "2294",
+      "name": "柿安本店",
+      "collected": false
+    },
+    {
+      "rank": 295,
+      "code": "274A",
+      "name": "ガーデン",
+      "collected": true
+    },
+    {
+      "rank": 296,
+      "code": "2736",
+      "name": "フェスタリアホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 297,
+      "code": "4931",
+      "name": "新日本製薬",
+      "collected": false
+    },
+    {
+      "rank": 298,
+      "code": "3377",
+      "name": "バイク王&カンパニー",
+      "collected": false
+    },
+    {
+      "rank": 299,
+      "code": "5184",
+      "name": "ニチリン",
+      "collected": true
+    },
+    {
+      "rank": 300,
+      "code": "367A",
+      "name": "プリモグローバルホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 301,
+      "code": "3750",
+      "name": "ADRバイオメディカルホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 302,
+      "code": "9348",
+      "name": "ispace",
+      "collected": false
+    },
+    {
+      "rank": 303,
+      "code": "6050",
+      "name": "イー・ガーディアン",
+      "collected": false
+    },
+    {
+      "rank": 304,
+      "code": "9090",
+      "name": "AZ-COM丸和ホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 305,
+      "code": "3350",
+      "name": "メタプラネット",
+      "collected": false
+    },
+    {
+      "rank": 306,
+      "code": "3063",
+      "name": "ジェイグループホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 307,
+      "code": "3167",
+      "name": "TOKAIホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 308,
+      "code": "5988",
+      "name": "パイオラックス",
+      "collected": false
+    },
+    {
+      "rank": 309,
+      "code": "6675",
+      "name": "サクサ",
+      "collected": false
+    },
+    {
+      "rank": 310,
+      "code": "7590",
+      "name": "タカショー",
+      "collected": false
+    },
+    {
+      "rank": 311,
+      "code": "3196",
+      "name": "ホットランドホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 312,
+      "code": "4751",
+      "name": "サイバーエージェント",
+      "collected": true
+    },
+    {
+      "rank": 313,
+      "code": "4820",
+      "name": "イーエムシステムズ",
+      "collected": false
+    },
+    {
+      "rank": 314,
+      "code": "6676",
+      "name": "バッファロー",
+      "collected": false
+    },
+    {
+      "rank": 315,
+      "code": "3563",
+      "name": "FOOD & LIFE COMPANIES",
+      "collected": true
+    },
+    {
+      "rank": 316,
+      "code": "6339",
+      "name": "新東工業",
+      "collected": false
+    },
+    {
+      "rank": 317,
+      "code": "2222",
+      "name": "寿スピリッツ",
+      "collected": true
+    },
+    {
+      "rank": 318,
+      "code": "2687",
+      "name": "シー・ヴイ・エス・ベイエリア",
+      "collected": false
+    },
+    {
+      "rank": 319,
+      "code": "4765",
+      "name": "SBIグローバルアセットマネジメント",
+      "collected": false
+    },
+    {
+      "rank": 320,
+      "code": "8892",
+      "name": "エスコン",
+      "collected": false
+    },
+    {
+      "rank": 321,
+      "code": "3399",
+      "name": "丸千代山岡家",
+      "collected": false
+    },
+    {
+      "rank": 322,
+      "code": "8153",
+      "name": "モスフードサービス",
+      "collected": true
+    },
+    {
+      "rank": 323,
+      "code": "2001",
+      "name": "ニップン",
+      "collected": true
+    },
+    {
+      "rank": 324,
+      "code": "7458",
+      "name": "第一興商",
+      "collected": true
+    },
+    {
+      "rank": 325,
+      "code": "2117",
+      "name": "ウェルネオシュガー",
+      "collected": false
+    },
+    {
+      "rank": 326,
+      "code": "7595",
+      "name": "アルゴグラフィックス",
+      "collected": false
+    },
+    {
+      "rank": 327,
+      "code": "9708",
+      "name": "帝国ホテル",
+      "collected": false
+    },
+    {
+      "rank": 328,
+      "code": "3138",
+      "name": "富士山マガジンサービス",
+      "collected": false
+    },
+    {
+      "rank": 329,
+      "code": "2385",
+      "name": "総医研ホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 330,
+      "code": "2004",
+      "name": "昭和産業",
+      "collected": false
+    },
+    {
+      "rank": 331,
+      "code": "6082",
+      "name": "ライドオンエクスプレスホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 332,
+      "code": "7874",
+      "name": "レック",
+      "collected": false
+    },
+    {
+      "rank": 333,
+      "code": "8818",
+      "name": "京阪神ビルディング",
+      "collected": false
+    },
+    {
+      "rank": 334,
+      "code": "3172",
+      "name": "ティーライフ",
+      "collected": false
+    },
+    {
+      "rank": 335,
+      "code": "9436",
+      "name": "沖縄セルラー電話",
+      "collected": true
+    },
+    {
+      "rank": 336,
+      "code": "6905",
+      "name": "コーセル",
+      "collected": false
+    },
+    {
+      "rank": 337,
+      "code": "1420",
+      "name": "サンヨーホームズ",
+      "collected": false
+    },
+    {
+      "rank": 338,
+      "code": "5830",
+      "name": "いよぎんホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 339,
+      "code": "2936",
+      "name": "ベースフード",
+      "collected": false
+    },
+    {
+      "rank": 340,
+      "code": "6070",
+      "name": "キャリアリンク",
+      "collected": false
+    },
+    {
+      "rank": 341,
+      "code": "5902",
+      "name": "ホッカンホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 342,
+      "code": "4919",
+      "name": "ミルボン",
+      "collected": false
+    },
+    {
+      "rank": 343,
+      "code": "3598",
+      "name": "山喜",
+      "collected": false
+    },
+    {
+      "rank": 344,
+      "code": "8367",
+      "name": "南都銀行",
+      "collected": false
+    },
+    {
+      "rank": 345,
+      "code": "7893",
+      "name": "プロネクサス",
+      "collected": false
+    },
+    {
+      "rank": 346,
+      "code": "5527",
+      "name": "property technologies",
+      "collected": false
+    },
+    {
+      "rank": 347,
+      "code": "8008",
+      "name": "ヨンドシーホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 348,
+      "code": "559A",
+      "name": "梅乃宿酒造",
+      "collected": false
+    },
+    {
+      "rank": 349,
+      "code": "3036",
+      "name": "アルコニックス",
+      "collected": false
+    },
+    {
+      "rank": 350,
+      "code": "6029",
+      "name": "アトラグループ",
+      "collected": false
+    },
+    {
+      "rank": 351,
+      "code": "8233",
+      "name": "高島屋",
+      "collected": true
+    },
+    {
+      "rank": 352,
+      "code": "4767",
+      "name": "テー・オー・ダブリュー",
+      "collected": false
+    },
+    {
+      "rank": 353,
+      "code": "2292",
+      "name": "S Foods",
+      "collected": true
+    },
+    {
+      "rank": 354,
+      "code": "3291",
+      "name": "飯田グループホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 355,
+      "code": "5301",
+      "name": "東海カーボン",
+      "collected": false
+    },
+    {
+      "rank": 356,
+      "code": "9842",
+      "name": "アークランズ",
+      "collected": true
+    },
+    {
+      "rank": 357,
+      "code": "4650",
+      "name": "SDエンターテイメント",
+      "collected": false
+    },
+    {
+      "rank": 358,
+      "code": "6309",
+      "name": "巴工業",
+      "collected": false
+    },
+    {
+      "rank": 359,
+      "code": "7621",
+      "name": "うかい",
+      "collected": false
+    },
+    {
+      "rank": 360,
+      "code": "3173",
+      "name": "Cominix",
+      "collected": false
+    },
+    {
+      "rank": 361,
+      "code": "6096",
+      "name": "レアジョブ",
+      "collected": false
+    },
+    {
+      "rank": 362,
+      "code": "4826",
+      "name": "CIJ",
+      "collected": false
+    },
+    {
+      "rank": 363,
+      "code": "7965",
+      "name": "象印マホービン",
+      "collected": false
+    },
+    {
+      "rank": 364,
+      "code": "5721",
+      "name": "エスクリプトエナジー",
+      "collected": false
+    },
+    {
+      "rank": 365,
+      "code": "2901",
+      "name": "ウェルディッシュ",
+      "collected": false
+    },
+    {
+      "rank": 366,
+      "code": "3088",
+      "name": "マツキヨココカラ&カンパニー",
+      "collected": true
+    },
+    {
+      "rank": 367,
+      "code": "6654",
+      "name": "不二電機工業",
+      "collected": false
+    },
+    {
+      "rank": 368,
+      "code": "2267",
+      "name": "ヤクルト本社",
+      "collected": true
+    },
+    {
+      "rank": 369,
+      "code": "7989",
+      "name": "立川ブラインド工業",
+      "collected": false
+    },
+    {
+      "rank": 370,
+      "code": "8190",
+      "name": "ヤマナカ",
+      "collected": false
+    },
+    {
+      "rank": 371,
+      "code": "8194",
+      "name": "ライフコーポレーション",
+      "collected": true
+    },
+    {
+      "rank": 372,
+      "code": "5332",
+      "name": "TOTO",
+      "collected": false
+    },
+    {
+      "rank": 373,
+      "code": "8418",
+      "name": "山口フィナンシャルグループ",
+      "collected": false
+    },
+    {
+      "rank": 374,
+      "code": "3974",
+      "name": "SCAT",
+      "collected": false
+    },
+    {
+      "rank": 375,
+      "code": "7867",
+      "name": "タカラトミー",
+      "collected": true
+    },
+    {
+      "rank": 376,
+      "code": "2694",
+      "name": "焼肉坂井ホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 377,
+      "code": "2922",
+      "name": "なとり",
+      "collected": true
+    },
+    {
+      "rank": 378,
+      "code": "8200",
+      "name": "リンガーハット",
+      "collected": true
+    },
+    {
+      "rank": 379,
+      "code": "5834",
+      "name": "SBIリーシングサービス",
+      "collected": false
+    },
+    {
+      "rank": 380,
+      "code": "4901",
+      "name": "富士フイルムホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 381,
+      "code": "2296",
+      "name": "伊藤ハム米久ホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 382,
+      "code": "9322",
+      "name": "川西倉庫",
+      "collected": false
+    },
+    {
+      "rank": 383,
+      "code": "7504",
+      "name": "高速",
+      "collected": false
+    },
+    {
+      "rank": 384,
+      "code": "5929",
+      "name": "三和ホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 385,
+      "code": "6240",
+      "name": "ヤマシンフィルタ",
+      "collected": true
+    },
+    {
+      "rank": 386,
+      "code": "6644",
+      "name": "大崎電気工業",
+      "collected": false
+    },
+    {
+      "rank": 387,
+      "code": "4929",
+      "name": "アジュバンホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 388,
+      "code": "8227",
+      "name": "しまむら",
+      "collected": true
+    },
+    {
+      "rank": 389,
+      "code": "9166",
+      "name": "GENDA",
+      "collected": false
+    },
+    {
+      "rank": 390,
+      "code": "3635",
+      "name": "コーエーテクモホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 391,
+      "code": "4679",
+      "name": "田谷",
+      "collected": false
+    },
+    {
+      "rank": 392,
+      "code": "9347",
+      "name": "日本管財ホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 393,
+      "code": "7049",
+      "name": "識学",
+      "collected": false
+    },
+    {
+      "rank": 394,
+      "code": "9039",
+      "name": "サカイ引越センター",
+      "collected": false
+    },
+    {
+      "rank": 395,
+      "code": "3864",
+      "name": "三菱製紙",
+      "collected": false
+    },
+    {
+      "rank": 396,
+      "code": "2883",
+      "name": "大冷",
+      "collected": false
+    },
+    {
+      "rank": 397,
+      "code": "8354",
+      "name": "ふくおかフィナンシャルグループ",
+      "collected": false
+    },
+    {
+      "rank": 398,
+      "code": "2206",
+      "name": "江崎グリコ",
+      "collected": false
+    },
+    {
+      "rank": 399,
+      "code": "150A",
+      "name": "JSH",
+      "collected": false
+    },
+    {
+      "rank": 400,
+      "code": "1377",
+      "name": "サカタのタネ",
+      "collected": false
+    },
+    {
+      "rank": 401,
+      "code": "3676",
+      "name": "デジタルハーツホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 402,
+      "code": "3447",
+      "name": "信和",
+      "collected": true
+    },
+    {
+      "rank": 403,
+      "code": "7235",
+      "name": "東京ラヂエーター製造",
+      "collected": false
+    },
+    {
+      "rank": 404,
+      "code": "1301",
+      "name": "極洋",
+      "collected": false
+    },
+    {
+      "rank": 405,
+      "code": "1430",
+      "name": "ファーストコーポレーション",
+      "collected": false
+    },
+    {
+      "rank": 406,
+      "code": "2597",
+      "name": "ユニカフェ",
+      "collected": false
+    },
+    {
+      "rank": 407,
+      "code": "6301",
+      "name": "コマツ",
+      "collected": false
+    },
+    {
+      "rank": 408,
+      "code": "7730",
+      "name": "マニー",
+      "collected": false
+    },
+    {
+      "rank": 409,
+      "code": "4344",
+      "name": "ソースネクスト",
+      "collected": false
+    },
+    {
+      "rank": 410,
+      "code": "8308",
+      "name": "りそなホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 411,
+      "code": "7997",
+      "name": "くろがね工作所",
+      "collected": false
+    },
+    {
+      "rank": 412,
+      "code": "4902",
+      "name": "コニカミノルタ",
+      "collected": false
+    },
+    {
+      "rank": 413,
+      "code": "9684",
+      "name": "スクウェア・エニックス・ホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 414,
+      "code": "4977",
+      "name": "新田ゼラチン",
+      "collected": false
+    },
+    {
+      "rank": 415,
+      "code": "4262",
+      "name": "ニフティライフスタイル",
+      "collected": false
+    },
+    {
+      "rank": 416,
+      "code": "9946",
+      "name": "ミニストップ",
+      "collected": true
+    },
+    {
+      "rank": 417,
+      "code": "4432",
+      "name": "ウイングアーク1st",
+      "collected": true
+    },
+    {
+      "rank": 418,
+      "code": "4635",
+      "name": "東京インキ",
+      "collected": false
+    },
+    {
+      "rank": 419,
+      "code": "6592",
+      "name": "マブチモーター",
+      "collected": false
+    },
+    {
+      "rank": 420,
+      "code": "8698",
+      "name": "マネックスグループ",
+      "collected": false
+    },
+    {
+      "rank": 421,
+      "code": "2282",
+      "name": "日本ハム",
+      "collected": false
+    },
+    {
+      "rank": 422,
+      "code": "9759",
+      "name": "NSD",
+      "collected": false
+    },
+    {
+      "rank": 423,
+      "code": "3931",
+      "name": "バリューゴルフ",
+      "collected": false
+    },
+    {
+      "rank": 424,
+      "code": "9007",
+      "name": "小田急電鉄",
+      "collected": true
+    },
+    {
+      "rank": 425,
+      "code": "7678",
+      "name": "あさくま",
+      "collected": false
+    },
+    {
+      "rank": 426,
+      "code": "2424",
+      "name": "ブラス",
+      "collected": false
+    },
+    {
+      "rank": 427,
+      "code": "5025",
+      "name": "マーキュリー",
+      "collected": false
+    },
+    {
+      "rank": 428,
+      "code": "1783",
+      "name": "fantasista",
+      "collected": false
+    },
+    {
+      "rank": 429,
+      "code": "9274",
+      "name": "KPPグループホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 430,
+      "code": "2933",
+      "name": "紀文食品",
+      "collected": false
+    },
+    {
+      "rank": 431,
+      "code": "1780",
+      "name": "ヤマウラ",
+      "collected": false
+    },
+    {
+      "rank": 432,
+      "code": "5970",
+      "name": "ジーテクト",
+      "collected": false
+    },
+    {
+      "rank": 433,
+      "code": "2931",
+      "name": "ユーグレナ",
+      "collected": false
+    },
+    {
+      "rank": 434,
+      "code": "7932",
+      "name": "ニッピ",
+      "collected": false
+    },
+    {
+      "rank": 435,
+      "code": "9942",
+      "name": "ジョイフル",
+      "collected": true
+    },
+    {
+      "rank": 436,
+      "code": "7646",
+      "name": "PLANT",
+      "collected": false
+    },
+    {
+      "rank": 437,
+      "code": "4681",
+      "name": "リゾートトラスト",
+      "collected": true
+    },
+    {
+      "rank": 438,
+      "code": "3498",
+      "name": "霞ヶ関キャピタル",
+      "collected": false
+    },
+    {
+      "rank": 439,
+      "code": "6306",
+      "name": "日工",
+      "collected": false
+    },
+    {
+      "rank": 440,
+      "code": "8032",
+      "name": "日本紙パルプ商事",
+      "collected": false
+    },
+    {
+      "rank": 441,
+      "code": "7167",
+      "name": "めぶきフィナンシャルグループ",
+      "collected": false
+    },
+    {
+      "rank": 442,
+      "code": "8119",
+      "name": "三栄コーポレーション",
+      "collected": false
+    },
+    {
+      "rank": 443,
+      "code": "2796",
+      "name": "ファーマライズホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 444,
+      "code": "7743",
+      "name": "シード",
+      "collected": false
+    },
+    {
+      "rank": 445,
+      "code": "9644",
+      "name": "タナベコンサルティンググループ",
+      "collected": false
+    },
+    {
+      "rank": 446,
+      "code": "247A",
+      "name": "Aiロボティクス",
+      "collected": false
+    },
+    {
+      "rank": 447,
+      "code": "3174",
+      "name": "ハピネス・アンド・ディ",
+      "collected": false
+    },
+    {
+      "rank": 448,
+      "code": "9235",
+      "name": "売れるネット広告社グループ",
+      "collected": false
+    },
+    {
+      "rank": 449,
+      "code": "1848",
+      "name": "富士ピー・エス",
+      "collected": false
+    },
+    {
+      "rank": 450,
+      "code": "2109",
+      "name": "DM三井製糖",
+      "collected": true
+    },
+    {
+      "rank": 451,
+      "code": "7850",
+      "name": "総合商研",
+      "collected": false
+    },
+    {
+      "rank": 452,
+      "code": "7041",
+      "name": "CRGホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 453,
+      "code": "4839",
+      "name": "WOWOW",
+      "collected": true
+    },
+    {
+      "rank": 454,
+      "code": "2882",
+      "name": "イートアンドホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 455,
+      "code": "4783",
+      "name": "NCD",
+      "collected": false
+    },
+    {
+      "rank": 456,
+      "code": "5933",
+      "name": "アルインコ",
+      "collected": false
+    },
+    {
+      "rank": 457,
+      "code": "7846",
+      "name": "パイロットコーポレーション",
+      "collected": false
+    },
+    {
+      "rank": 458,
+      "code": "6264",
+      "name": "マルマエ",
+      "collected": false
+    },
+    {
+      "rank": 459,
+      "code": "2935",
+      "name": "ピックルスホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 460,
+      "code": "4922",
+      "name": "コーセーホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 461,
+      "code": "2733",
+      "name": "あらた",
+      "collected": false
+    },
+    {
+      "rank": 462,
+      "code": "575A",
+      "name": "前澤ホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 463,
+      "code": "7514",
+      "name": "ヒマラヤ",
+      "collected": true
+    },
+    {
+      "rank": 464,
+      "code": "7173",
+      "name": "東京きらぼしフィナンシャルグループ",
+      "collected": true
+    },
+    {
+      "rank": 465,
+      "code": "2216",
+      "name": "カンロ",
+      "collected": false
+    },
+    {
+      "rank": 466,
+      "code": "7347",
+      "name": "マーキュリアホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 467,
+      "code": "4343",
+      "name": "イオンファンタジー",
+      "collected": true
+    },
+    {
+      "rank": 468,
+      "code": "2112",
+      "name": "塩水港精糖",
+      "collected": false
+    },
+    {
+      "rank": 469,
+      "code": "5019",
+      "name": "出光興産",
+      "collected": false
+    },
+    {
+      "rank": 470,
+      "code": "9603",
+      "name": "エイチ・アイ・エス",
+      "collected": true
+    },
+    {
+      "rank": 471,
+      "code": "7682",
+      "name": "浜木綿",
+      "collected": false
+    },
+    {
+      "rank": 472,
+      "code": "9345",
+      "name": "ビズメイツ",
+      "collected": false
+    },
+    {
+      "rank": 473,
+      "code": "5869",
+      "name": "早稲田学習研究会",
+      "collected": false
+    },
+    {
+      "rank": 474,
+      "code": "6430",
+      "name": "ダイコク電機",
+      "collected": false
+    },
+    {
+      "rank": 475,
+      "code": "9216",
+      "name": "ビーウィズ",
+      "collected": false
+    },
+    {
+      "rank": 476,
+      "code": "7875",
+      "name": "竹田iPホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 477,
+      "code": "7686",
+      "name": "ひとまいる",
+      "collected": true
+    },
+    {
+      "rank": 478,
+      "code": "4015",
+      "name": "ペイクラウドホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 479,
+      "code": "4784",
+      "name": "GMOインターネット",
+      "collected": false
+    },
+    {
+      "rank": 480,
+      "code": "205A",
+      "name": "ロゴスホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 481,
+      "code": "7073",
+      "name": "ジェイック",
+      "collected": false
+    },
+    {
+      "rank": 482,
+      "code": "7638",
+      "name": "NEW ART HOLDINGS",
+      "collected": false
+    },
+    {
+      "rank": 483,
+      "code": "7611",
+      "name": "ハイデイ日高",
+      "collected": true
+    },
+    {
+      "rank": 484,
+      "code": "6249",
+      "name": "ゲームカードホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 485,
+      "code": "7606",
+      "name": "ユナイテッドアローズ",
+      "collected": true
+    },
+    {
+      "rank": 486,
+      "code": "3175",
+      "name": "エー・ピーホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 487,
+      "code": "5884",
+      "name": "クラダシ",
+      "collected": false
+    },
+    {
+      "rank": 488,
+      "code": "5451",
+      "name": "ヨドコウ",
+      "collected": false
+    },
+    {
+      "rank": 489,
+      "code": "2212",
+      "name": "山崎製パン",
+      "collected": true
+    },
+    {
+      "rank": 490,
+      "code": "3148",
+      "name": "クリエイトSDホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 491,
+      "code": "2999",
+      "name": "ホームポジション",
+      "collected": false
+    },
+    {
+      "rank": 492,
+      "code": "3521",
+      "name": "テルマー湯ホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 493,
+      "code": "3099",
+      "name": "三越伊勢丹ホールディングス",
+      "collected": true
+    },
+    {
+      "rank": 494,
+      "code": "7779",
+      "name": "CYBERDYNE",
+      "collected": false
+    },
+    {
+      "rank": 495,
+      "code": "4072",
+      "name": "電算システムホールディングス",
+      "collected": false
+    },
+    {
+      "rank": 496,
+      "code": "6573",
+      "name": "CRAVIA",
+      "collected": false
+    },
+    {
+      "rank": 497,
+      "code": "6493",
+      "name": "NITTAN",
+      "collected": false
+    },
+    {
+      "rank": 498,
+      "code": "3758",
+      "name": "アエリア",
+      "collected": false
+    },
+    {
+      "rank": 499,
+      "code": "3075",
+      "name": "銚子丸",
+      "collected": false
+    },
+    {
+      "rank": 500,
+      "code": "3475",
+      "name": "グッドコムアセット",
+      "collected": false
+    }
+  ]
+}
