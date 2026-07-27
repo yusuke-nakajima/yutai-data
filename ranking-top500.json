@@ -120,7 +120,9 @@
       "rank": 20,
       "code": "2928",
       "name": "RIZAPグループ",
-      "collected": false
+      "collected": false,
+      "excluded": true,
+      "note": "公式サイトJS動的レンダリングで未確認、要再調査"
     },
     {
       "rank": 21,
@@ -222,7 +224,9 @@
       "rank": 37,
       "code": "3930",
       "name": "はてな",
-      "collected": false
+      "collected": false,
+      "excluded": true,
+      "note": "経常的な優待制度なし(記念優待のみ)"
     },
     {
       "rank": 38,
