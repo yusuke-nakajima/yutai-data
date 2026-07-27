@@ -24,7 +24,7 @@
       "rank": 4,
       "code": "3382",
       "name": "セブン＆アイ・ホールディングス",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 5,
@@ -42,7 +42,7 @@
       "rank": 7,
       "code": "8783",
       "name": "abc",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 8,
@@ -96,7 +96,7 @@
       "rank": 16,
       "code": "7272",
       "name": "ヤマハ発動機",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 17,
@@ -126,7 +126,7 @@
       "rank": 21,
       "code": "8316",
       "name": "三井住友フィナンシャルグループ",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 22,
