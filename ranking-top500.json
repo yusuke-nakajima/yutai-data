@@ -138,13 +138,13 @@
       "rank": 23,
       "code": "7085",
       "name": "カーブスホールディングス",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 24,
       "code": "3418",
       "name": "バルニバービ",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 25,
@@ -162,13 +162,13 @@
       "rank": 27,
       "code": "1928",
       "name": "積水ハウス",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 28,
       "code": "3880",
       "name": "大王製紙",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 29,
@@ -180,19 +180,19 @@
       "rank": 30,
       "code": "5161",
       "name": "西川ゴム工業",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 31,
       "code": "7602",
       "name": "レダックス",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 32,
       "code": "2198",
       "name": "アイ・ケイ・ケイホールディングス",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 33,
@@ -204,7 +204,7 @@
       "rank": 34,
       "code": "545A",
       "name": "トランヴィア",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 35,
