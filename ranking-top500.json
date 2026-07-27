@@ -210,13 +210,13 @@
       "rank": 35,
       "code": "7856",
       "name": "萩原工業",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 36,
       "code": "2930",
       "name": "北の達人コーポレーション",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 37,
@@ -240,13 +240,13 @@
       "rank": 40,
       "code": "3607",
       "name": "クラウディアホールディングス",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 41,
       "code": "3002",
       "name": "グンゼ",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 42,
@@ -264,19 +264,19 @@
       "rank": 44,
       "code": "7278",
       "name": "エクセディ",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 45,
       "code": "9160",
       "name": "オンザページ",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 46,
       "code": "8904",
       "name": "AVANTIA",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 47,
@@ -294,7 +294,7 @@
       "rank": 49,
       "code": "7267",
       "name": "ホンダ",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 50,
@@ -306,7 +306,7 @@
       "rank": 51,
       "code": "2269",
       "name": "明治ホールディングス",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 52,
