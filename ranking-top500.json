@@ -322,19 +322,19 @@
       "rank": 53,
       "code": "7128",
       "name": "ユニソルホールディングス",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 54,
       "code": "1333",
       "name": "Umios",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 55,
       "code": "4596",
       "name": "窪田製薬ホールディングス",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 56,
@@ -352,13 +352,13 @@
       "rank": 58,
       "code": "6758",
       "name": "ソニーグループ",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 59,
       "code": "3539",
       "name": "JMホールディングス",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 60,
@@ -388,13 +388,13 @@
       "rank": 64,
       "code": "4433",
       "name": "ヒト・コミュニケーションズ・ホールディングス",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 65,
       "code": "4936",
       "name": "アクシージア",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 66,
@@ -406,37 +406,37 @@
       "rank": 67,
       "code": "2340",
       "name": "極楽湯ホールディングス",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 68,
       "code": "7313",
       "name": "テイ・エス・テック",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 69,
       "code": "3861",
       "name": "王子ホールディングス",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 70,
       "code": "8303",
       "name": "SBI新生銀行",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 71,
       "code": "7938",
       "name": "リーガルコーポレーション",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 72,
       "code": "7593",
       "name": "VTホールディングス",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 73,
@@ -460,7 +460,7 @@
       "rank": 76,
       "code": "3071",
       "name": "ストリーム",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 77,
