@@ -466,13 +466,13 @@
       "rank": 77,
       "code": "2220",
       "name": "亀田製菓",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 78,
       "code": "3726",
       "name": "フォーシーズHD",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 79,
@@ -484,19 +484,19 @@
       "rank": 80,
       "code": "3421",
       "name": "稲葉製作所",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 81,
       "code": "167A",
       "name": "リョーサン菱洋ホールディングス",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 82,
       "code": "3137",
       "name": "ファンデリー",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 83,
@@ -508,7 +508,7 @@
       "rank": 84,
       "code": "7599",
       "name": "IDOM",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 85,
@@ -520,13 +520,13 @@
       "rank": 86,
       "code": "1379",
       "name": "ホクト",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 87,
       "code": "3826",
       "name": "システムインテグレータ",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 88,
@@ -538,13 +538,13 @@
       "rank": 89,
       "code": "3494",
       "name": "マリオン",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 90,
       "code": "3370",
       "name": "フジタコーポレーション",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 91,
@@ -562,7 +562,7 @@
       "rank": 93,
       "code": "5949",
       "name": "ユニプレス",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 94,
@@ -580,25 +580,25 @@
       "rank": 96,
       "code": "2379",
       "name": "ディップ",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 97,
       "code": "3863",
       "name": "日本製紙",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 98,
       "code": "6577",
       "name": "ベストワンドットコム",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 99,
       "code": "4540",
       "name": "ツムラ",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 100,
@@ -622,19 +622,19 @@
       "rank": 103,
       "code": "8750",
       "name": "第一ライフグループ",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 104,
       "code": "5411",
       "name": "JFEホールディングス",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 105,
       "code": "3053",
       "name": "ペッパーフードサービス",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 106,
@@ -652,13 +652,13 @@
       "rank": 108,
       "code": "1518",
       "name": "三井松島ホールディングス",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 109,
       "code": "2927",
       "name": "AFC-HDアムスライフサイエンス",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 110,
