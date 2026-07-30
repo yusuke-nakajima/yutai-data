@@ -122,7 +122,7 @@
       "name": "RIZAPグループ",
       "collected": false,
       "excluded": true,
-      "note": "公式サイトJS動的レンダリングで未確認、要再調査"
+      "note": "札幌証券取引所アンビシャス上場でmaster.json(JPX/東証データ)未収録のため、追加すると廃止誤判定が起きる。見送り"
     },
     {
       "rank": 21,
@@ -370,7 +370,7 @@
       "rank": 61,
       "code": "1925",
       "name": "大和ハウス工業",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 62,
