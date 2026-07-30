@@ -688,7 +688,7 @@
       "rank": 114,
       "code": "3815",
       "name": "メディア工房",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 115,
@@ -706,7 +706,7 @@
       "rank": 117,
       "code": "7769",
       "name": "リズム",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 118,
@@ -718,7 +718,7 @@
       "rank": 119,
       "code": "3474",
       "name": "G-FACTORY",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 120,
@@ -730,7 +730,7 @@
       "rank": 121,
       "code": "2752",
       "name": "フジオフードグループ本社",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 122,
@@ -742,19 +742,19 @@
       "rank": 123,
       "code": "9788",
       "name": "ナック",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 124,
       "code": "7928",
       "name": "旭化学工業",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 125,
       "code": "4447",
       "name": "ピー・ビーシステムズ",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 126,
@@ -766,7 +766,7 @@
       "rank": 127,
       "code": "3046",
       "name": "ジンズホールディングス",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 128,
@@ -784,13 +784,15 @@
       "rank": 130,
       "code": "8202",
       "name": "ラオックスホールディングス",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 131,
       "code": "2986",
       "name": "LAホールディングス",
-      "collected": false
+      "collected": false,
+      "excluded": true,
+      "note": "権利確定月が情報源間で矛盾、公式一次情報での確認が必要"
     },
     {
       "rank": 132,
@@ -808,19 +810,19 @@
       "rank": 134,
       "code": "8803",
       "name": "平和不動産",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 135,
       "code": "9760",
       "name": "進学会ホールディングス",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 136,
       "code": "7607",
       "name": "進和",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 137,
@@ -838,37 +840,37 @@
       "rank": 139,
       "code": "8185",
       "name": "チヨダ",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 140,
       "code": "7126",
       "name": "グローバルスタイル",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 141,
       "code": "3612",
       "name": "ワールド",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 142,
       "code": "2168",
       "name": "パソナグループ",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 143,
       "code": "8043",
       "name": "スターゼン",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 144,
       "code": "3185",
       "name": "夢展望",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 145,
@@ -892,7 +894,7 @@
       "rank": 148,
       "code": "2108",
       "name": "日本甜菜製糖",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 149,
