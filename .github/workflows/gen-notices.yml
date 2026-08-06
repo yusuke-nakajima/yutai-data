@@ -1,0 +1,36 @@
+# 配当予想額の変更を検知してnotices.json(お知らせ)を更新する。
+# TDnet検知(21:30 JST)・その日の自動処理(22:00 JST)より後に実行し、その日の変更を取りこぼさないようにする。
+name: Generate notices
+
+on:
+  schedule:
+    - cron: '30 14 * * *' # 23:30 JST 毎日
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  gen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+
+      - name: Generate notices.json
+        run: node scripts/gen-notices.js
+
+      - name: Commit
+        run: |
+          if git diff --quiet notices.json notices-div-snapshot.json; then
+            echo "変更なし"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add notices.json notices-div-snapshot.json
+          git commit -m "notices: 配当お知らせを更新"
+          git push
