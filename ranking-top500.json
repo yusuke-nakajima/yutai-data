@@ -1104,49 +1104,49 @@
       "rank": 183,
       "code": "7201",
       "name": "日産自動車",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 184,
       "code": "9439",
       "name": "エム・エイチ・グループ",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 185,
       "code": "7683",
       "name": "ダブルエー",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 186,
       "code": "3694",
       "name": "オプティム",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 187,
       "code": "254A",
       "name": "AIフュージョンキャピタルグループ",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 188,
       "code": "2288",
       "name": "丸大食品",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 189,
       "code": "2938",
       "name": "オカムラ食品工業",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 190,
       "code": "1822",
       "name": "大豊建設",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 191,
@@ -1164,7 +1164,7 @@
       "rank": 193,
       "code": "2114",
       "name": "フジ日本",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 194,
@@ -1176,25 +1176,25 @@
       "rank": 195,
       "code": "8207",
       "name": "テンアライド",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 196,
       "code": "3070",
       "name": "ジェリービーンズグループ",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 197,
       "code": "8105",
       "name": "ビットコインジャパン",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 198,
       "code": "3261",
       "name": "グランディーズ",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 199,
@@ -1212,13 +1212,13 @@
       "rank": 201,
       "code": "4934",
       "name": "プレミアアンチエイジング",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 202,
       "code": "4933",
       "name": "I-ne",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 203,
@@ -1236,7 +1236,7 @@
       "rank": 205,
       "code": "3396",
       "name": "フェリシモ",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 206,
@@ -1248,25 +1248,25 @@
       "rank": 207,
       "code": "7674",
       "name": "NATTY holdings",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 208,
       "code": "5976",
       "name": "高周波熱錬",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 209,
       "code": "3939",
       "name": "カナミックネットワーク",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 210,
       "code": "7186",
       "name": "横浜フィナンシャルグループ",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 211,
@@ -1278,25 +1278,27 @@
       "rank": 212,
       "code": "2735",
       "name": "ワッツ",
-      "collected": false
+      "collected": false,
+      "excluded": true,
+      "note": "2022年8月権利分をもって株主優待制度を廃止済み(公式確認)"
     },
     {
       "rank": 213,
       "code": "3139",
       "name": "ラクト・ジャパン",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 214,
       "code": "3372",
       "name": "関門海",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 215,
       "code": "3548",
       "name": "バロックジャパンリミテッド",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 216,
@@ -1308,25 +1310,25 @@
       "rank": 217,
       "code": "2722",
       "name": "IKホールディングス",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 218,
       "code": "3199",
       "name": "綿半ホールディングス",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 219,
       "code": "9757",
       "name": "船井総研ホールディングス",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 220,
       "code": "3202",
       "name": "ダイトウボウ",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 221,
@@ -1338,7 +1340,7 @@
       "rank": 222,
       "code": "2337",
       "name": "いちご",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 223,
@@ -1350,19 +1352,19 @@
       "rank": 224,
       "code": "2186",
       "name": "ソーバル",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 225,
       "code": "8273",
       "name": "イズミ",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 226,
       "code": "4762",
       "name": "エックスネット",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 227,
@@ -1374,13 +1376,13 @@
       "rank": 228,
       "code": "2908",
       "name": "フジッコ",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 229,
       "code": "3191",
       "name": "ジョイフル本田",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 230,
@@ -1392,7 +1394,7 @@
       "rank": 231,
       "code": "3134",
       "name": "Hamee",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 232,
@@ -1404,25 +1406,25 @@
       "rank": 233,
       "code": "5911",
       "name": "横河ブリッジホールディングス",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 234,
       "code": "3140",
       "name": "BRUNO",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 235,
       "code": "7482",
       "name": "シモジマ",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 236,
       "code": "4611",
       "name": "大日本塗料",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 237,
@@ -1440,25 +1442,25 @@
       "rank": 239,
       "code": "8101",
       "name": "GSIクレオス",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 240,
       "code": "3222",
       "name": "ユナイテッド・スーパーマーケット・ホールディングス",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 241,
       "code": "3050",
       "name": "DCMホールディングス",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 242,
       "code": "6625",
       "name": "JALCOホールディングス",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 243,
@@ -1476,13 +1478,13 @@
       "rank": 245,
       "code": "4256",
       "name": "サインド",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 246,
       "code": "5216",
       "name": "倉元製作所",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 247,
@@ -1494,19 +1496,19 @@
       "rank": 248,
       "code": "5445",
       "name": "東京鐵鋼",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 249,
       "code": "9251",
       "name": "AB&Company",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 250,
       "code": "8424",
       "name": "芙蓉総合リース",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 251,
