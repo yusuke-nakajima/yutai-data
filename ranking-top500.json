@@ -1684,73 +1684,73 @@
    "rank": 279,
    "code": "3469",
    "name": "デュアルタップ",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 280,
    "code": "3091",
    "name": "ブロンコビリー",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 281,
    "code": "7327",
    "name": "第四北越フィナンシャルグループ",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 282,
    "code": "8524",
    "name": "北洋銀行",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 283,
    "code": "2208",
    "name": "ブルボン",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 284,
    "code": "9900",
    "name": "サガミホールディングス",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 285,
    "code": "3708",
    "name": "特種東海製紙",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 286,
    "code": "3796",
    "name": "いい生活",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 287,
    "code": "2268",
    "name": "B-Rサーティワンアイスクリーム",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 288,
    "code": "8616",
    "name": "東海東京フィナンシャル・ホールディングス",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 289,
    "code": "4633",
    "name": "サカタインクス",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 290,
    "code": "2613",
    "name": "J-オイルミルズ",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 291,
@@ -1762,7 +1762,7 @@
    "rank": 292,
    "code": "8104",
    "name": "クワザワホールディングス",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 293,
@@ -1774,7 +1774,7 @@
    "rank": 294,
    "code": "2294",
    "name": "柿安本店",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 295,
@@ -1792,13 +1792,13 @@
    "rank": 297,
    "code": "4931",
    "name": "新日本製薬",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 298,
    "code": "3377",
    "name": "バイク王&カンパニー",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 299,
@@ -1816,19 +1816,20 @@
    "rank": 301,
    "code": "3750",
    "name": "ADRバイオメディカルホールディングス",
-   "collected": false
+   "collected": false,
+   "note": "公式サイト(adr.co.jp)で株主優待の詳細ページを確認できず、断片的な情報のみ。次回以降フォローアップ"
   },
   {
    "rank": 302,
    "code": "9348",
    "name": "ispace",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 303,
    "code": "6050",
    "name": "イー・ガーディアン",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 304,
@@ -1840,7 +1841,7 @@
    "rank": 305,
    "code": "3350",
    "name": "メタプラネット",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 306,
