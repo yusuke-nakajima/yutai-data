@@ -2003,19 +2003,19 @@
    "rank": 332,
    "code": "7874",
    "name": "レック",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 333,
    "code": "8818",
    "name": "京阪神ビルディング",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 334,
    "code": "3172",
    "name": "ティーライフ",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 335,
@@ -2027,91 +2027,91 @@
    "rank": 336,
    "code": "6905",
    "name": "コーセル",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 337,
    "code": "1420",
    "name": "サンヨーホームズ",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 338,
    "code": "5830",
    "name": "いよぎんホールディングス",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 339,
    "code": "2936",
    "name": "ベースフード",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 340,
    "code": "6070",
    "name": "キャリアリンク",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 341,
    "code": "5902",
    "name": "ホッカンホールディングス",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 342,
    "code": "4919",
    "name": "ミルボン",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 343,
    "code": "3598",
    "name": "山喜",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 344,
    "code": "8367",
    "name": "南都銀行",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 345,
    "code": "7893",
    "name": "プロネクサス",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 346,
    "code": "5527",
    "name": "property technologies",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 347,
    "code": "8008",
    "name": "ヨンドシーホールディングス",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 348,
    "code": "559A",
    "name": "梅乃宿酒造",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 349,
    "code": "3036",
    "name": "アルコニックス",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 350,
    "code": "6029",
    "name": "アトラグループ",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 351,
@@ -2123,7 +2123,7 @@
    "rank": 352,
    "code": "4767",
    "name": "テー・オー・ダブリュー",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 353,
@@ -2135,7 +2135,7 @@
    "rank": 354,
    "code": "3291",
    "name": "飯田グループホールディングス",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 355,
