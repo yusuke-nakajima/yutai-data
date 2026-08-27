@@ -2141,7 +2141,7 @@
    "rank": 355,
    "code": "5301",
    "name": "東海カーボン",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 356,
@@ -2153,55 +2153,57 @@
    "rank": 357,
    "code": "4650",
    "name": "SDエンターテイメント",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 358,
    "code": "6309",
    "name": "巴工業",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 359,
    "code": "7621",
    "name": "うかい",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 360,
    "code": "3173",
    "name": "Cominix",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 361,
    "code": "6096",
    "name": "レアジョブ",
-   "collected": false
+   "collected": false,
+   "excluded": true,
+   "note": "レアジョブ: 2026-07-29付でTSEスタンダード上場廃止(Gakken HDによる完全子会社化に伴う株式交換)のため対象外"
   },
   {
    "rank": 362,
    "code": "4826",
    "name": "CIJ",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 363,
    "code": "7965",
    "name": "象印マホービン",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 364,
    "code": "5721",
    "name": "エスクリプトエナジー",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 365,
    "code": "2901",
    "name": "ウェルディッシュ",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 366,
@@ -2213,7 +2215,7 @@
    "rank": 367,
    "code": "6654",
    "name": "不二電機工業",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 368,
@@ -2225,13 +2227,15 @@
    "rank": 369,
    "code": "7989",
    "name": "立川ブラインド工業",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 370,
    "code": "8190",
    "name": "ヤマナカ",
-   "collected": false
+   "collected": false,
+   "excluded": true,
+   "note": "ヤマナカ: 名古屋証券取引所単独上場(TSE非上場、master.jsonに不在)のため対象外"
   },
   {
    "rank": 371,
@@ -2243,19 +2247,19 @@
    "rank": 372,
    "code": "5332",
    "name": "TOTO",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 373,
    "code": "8418",
    "name": "山口フィナンシャルグループ",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 374,
    "code": "3974",
    "name": "SCAT",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 375,
@@ -2267,7 +2271,7 @@
    "rank": 376,
    "code": "2694",
    "name": "焼肉坂井ホールディングス",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 377,
@@ -2285,19 +2289,19 @@
    "rank": 379,
    "code": "5834",
    "name": "SBIリーシングサービス",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 380,
    "code": "4901",
    "name": "富士フイルムホールディングス",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 381,
    "code": "2296",
    "name": "伊藤ハム米久ホールディングス",
-   "collected": false
+   "collected": true
   },
   {
    "rank": 382,
