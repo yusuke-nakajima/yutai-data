@@ -2433,13 +2433,13 @@
       "rank": 403,
       "code": "7235",
       "name": "東京ラヂエーター製造",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 404,
       "code": "1301",
       "name": "極洋",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 405,
@@ -2451,19 +2451,19 @@
       "rank": 406,
       "code": "2597",
       "name": "ユニカフェ",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 407,
       "code": "6301",
       "name": "コマツ",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 408,
       "code": "7730",
       "name": "マニー",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 409,
