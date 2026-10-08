@@ -2313,13 +2313,13 @@
       "rank": 383,
       "code": "7504",
       "name": "高速",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 384,
       "code": "5929",
       "name": "三和ホールディングス",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 385,
@@ -2331,13 +2331,13 @@
       "rank": 386,
       "code": "6644",
       "name": "大崎電気工業",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 387,
       "code": "4929",
       "name": "アジュバンホールディングス",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 388,
@@ -2361,7 +2361,7 @@
       "rank": 391,
       "code": "4679",
       "name": "田谷",
-      "collected": false
+      "collected": true
     },
     {
       "rank": 392,
